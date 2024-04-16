@@ -34,9 +34,10 @@ a  {
 
 .header{
 background-color: #303030;
+padding: 55;
 }
 
- a{
+a{
     color: inherit;
  }
 
